@@ -1,0 +1,12 @@
+2023-10-05 22:21:28,432 INFO c.e.d.c.UserController [main] ==== Create user request ====
+2023-10-05 22:21:28,454 INFO c.e.d.c.UserController [main] ==== Create user request successes ====
+2023-10-05 22:21:28,495 INFO c.e.d.c.UserController [main] ==== Create user request ====
+2023-10-05 22:21:28,495 ERROR c.e.d.c.UserController [main] ==== Error when create user ====
+2023-10-05 22:21:28,499 INFO c.e.d.c.UserController [main] ==== Create user request ====
+2023-10-05 22:21:28,499 ERROR c.e.d.c.UserController [main] ==== Error when create user ====
+2023-10-05 22:53:43,543 INFO c.e.d.c.UserController [main] ==== Create user request ====
+2023-10-05 22:53:43,553 INFO c.e.d.c.UserController [main] ==== Create user request successes ====
+2023-10-05 22:53:43,557 INFO c.e.d.c.UserController [main] ==== Create user request ====
+2023-10-05 22:53:43,558 ERROR c.e.d.c.UserController [main] ==== Error when create user ====
+2023-10-05 22:53:43,564 INFO c.e.d.c.UserController [main] ==== Create user request ====
+2023-10-05 22:53:43,564 ERROR c.e.d.c.UserController [main] ==== Error when create user ====
